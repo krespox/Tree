@@ -28,7 +28,6 @@ public class Main {
 
         int longestPath = tree.getLongestPath();
         System.out.println("Longest path: " + longestPath);
-
         
         TreeNode root2 = new TreeNode(5);
         TreeNode node21 = new TreeNode(7);
