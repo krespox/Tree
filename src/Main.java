@@ -45,9 +45,7 @@ public class Main {
         node22.left = node26;
         node22.right = node27;
         node27.left = node28;
-
         Tree tree2 = new Tree(root2);
-
         boolean isEquivalent = tree.isEquivalent(tree2);
         System.out.println("Equivalent trees: " + isEquivalent);
     }
