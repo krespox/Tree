@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63836443-1a02-4c80-82c3-2fd3c36bbc2b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tree/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tree/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681307223591</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="This project consists of three classes: TreeNode, Tree, and Main. The TreeNode class represents a node in a binary tree and contains a value, a reference to the left child, and a reference to the right child. The Tree class represents a binary tree and provides methods to get the leaf nodes, the length of the longest path from the root to a leaf node, and to check if two trees are equivalent. The Main class creates two instances of Tree and performs some operations such as getting leaf nodes, finding the longest path, and checking if the two trees are equivalent.">
+      <created>1681307530355</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681307530355</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
