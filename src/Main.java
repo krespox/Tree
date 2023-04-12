@@ -25,10 +25,8 @@ public class Main {
         Tree tree = new Tree(root);
         List<Integer> leafNodes = tree.getLeafNodes();
         System.out.println("Leaf nodes: " + leafNodes);
-
         int longestPath = tree.getLongestPath();
         System.out.println("Longest path: " + longestPath);
-        
         TreeNode root2 = new TreeNode(5);
         TreeNode node21 = new TreeNode(7);
         TreeNode node22 = new TreeNode(3);
