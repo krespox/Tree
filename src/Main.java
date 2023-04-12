@@ -23,7 +23,6 @@ public class Main {
         node7.left = node8;
 
         Tree tree = new Tree(root);
-        
         List<Integer> leafNodes = tree.getLeafNodes();
         System.out.println("Leaf nodes: " + leafNodes);
 
